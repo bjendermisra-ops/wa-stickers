@@ -1,0 +1,35 @@
+{
+  "packs": [
+    {
+      "id": "test_01",
+      "name": "My First Stickers",
+      "publisher": "WA Stickers",
+      "category": "Test Pack",
+      "description": "Testing GitHub-hosted sticker artwork",
+      "image_data_version": "1",
+      "stickers": [
+        {
+          "image": "https://raw.githubusercontent.com/bjendermisra-ops/wa-stickers/main/img2276.webp",
+          "file": "img2276.webp",
+          "emojis": [
+            "😀"
+          ]
+        },
+        {
+          "image": "https://raw.githubusercontent.com/bjendermisra-ops/wa-stickers/main/img3589.webp",
+          "file": "img3589.webp",
+          "emojis": [
+            "🙏"
+          ]
+        },
+        {
+          "image": "https://raw.githubusercontent.com/bjendermisra-ops/wa-stickers/main/img9010.webp",
+          "file": "img9010.webp",
+          "emojis": [
+            "😍"
+          ]
+        }
+      ]
+    }
+  ]
+}
