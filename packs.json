@@ -30,6 +30,45 @@
           ]
         }
       ]
+    },
+    {
+      "id": "animated_01",
+      "name": "Animated Test Stickers",
+      "publisher": "WA Stickers",
+      "category": "Animated",
+      "description": "Animated WebP import test — current 4 files contain the same animation",
+      "animated": true,
+      "image_data_version": "2",
+      "stickers": [
+        {
+          "image": "https://raw.githubusercontent.com/bjendermisra-ops/wa-stickers/main/bahi_animated_whatsapp.webp",
+          "file": "bahi_animated_whatsapp.webp",
+          "emojis": [
+            "💃"
+          ]
+        },
+        {
+          "image": "https://raw.githubusercontent.com/bjendermisra-ops/wa-stickers/main/bahi_an_what.webp",
+          "file": "bahi_an_what.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image": "https://raw.githubusercontent.com/bjendermisra-ops/wa-stickers/main/bahi_an_whatsa.webp",
+          "file": "bahi_an_whatsa.webp",
+          "emojis": [
+            "🙌"
+          ]
+        },
+        {
+          "image": "https://raw.githubusercontent.com/bjendermisra-ops/wa-stickers/main/bahi_an_whatsapp.webp",
+          "file": "bahi_an_whatsapp.webp",
+          "emojis": [
+            "💚"
+          ]
+        }
+      ]
     }
   ]
 }
