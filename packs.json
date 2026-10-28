@@ -2,8 +2,8 @@
   "packs": [
     {
       "id": "test_01",
-      "name": "My First Stickers",
-      "publisher": "WA Stickers",
+      "name": "Sri Sri Radha Krishna",
+      "publisher": "W000",
       "category": "Devotional",
       "description": "Clean static sticker collection",
       "animated": false,
@@ -28,8 +28,8 @@
     },
     {
       "id": "animated_01",
-      "name": "Animated Test Stickers",
-      "publisher": "WA Stickers",
+      "name": "Hare Krishna",
+      "publisher": " Stickers",
       "category": "Animated",
       "description": "High quality animated WebP stickers for WhatsApp",
       "animated": true,
